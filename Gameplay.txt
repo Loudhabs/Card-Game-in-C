@@ -1,0 +1,95 @@
+Gameplay:
+
+Let’s Play a Game of DOS
+
+Press 1 to shuffle the DOS deck or 2 to load a deck from a file: 1
+
+The deck is shuffled. Press any key to deal cards
+
+--player 1 turn--
+
+--first centerline card--
+
+	Player’s one hand: 6 red, 5 green, 2 anycolor, 10 blue, # green, 4 yellow, 1 red
+
+	Centerline 5 green, 8 yellow
+
+	How many cards do you want to play on 5 green: 1
+
+	Select a card from 1-7: 2
+
+--second centerline card--
+
+	Player’s one hand: 6 red, 2 anycolor, 10 blue, # green, 4 yellow, 1 red
+
+	How many cards do you want to play on 8 yellow: 2
+
+	Select cards from 1-6: 1,3
+
+	That selection does not total to the center row card. Select again.
+
+	Player’s one hand: 6 red, 2 anycolor, 10 blue, # green, 4 yellow, 1 red
+
+	How many cards do you want to play on 8 yellow: 2
+
+	Select two cards from 1-6: 1,2
+
+--no more centerline--
+
+	There are no more center row cards to match.
+
+You color matched and get to play 1 card(s) on the center row.
+
+Player’s one hand: 10 blue, # green, 4 yellow, 1 red
+
+Select one additional card from 1-4 to place to the center row: 3
+
+Player’s one hand: 10 blue, # green, 1 red
+
+--player 2 turn--
+
+Player’s two turn.
+
+--first centerline card--
+
+	Player’s two hand: 8 blue, 4 green, 7 green, 3 green, 1 yellow, 2 anycolor, 1 blue
+
+	Centerline 4 yellow, 10 green, 3 blue
+
+	How many cards do you want to play on 4 yellow: 1
+
+	Select a card from 1-7: 2
+
+--second centerline card--
+
+	Player’s two hand: 8 blue, 7 green, 3 green, 1 yellow, 2 anycolor, 1 blue
+
+	How many cards do you want to play on 10 green: 2
+
+	Select two cards 1-6: 2,3
+
+--third centerline card--
+
+	Player’s two hand: 8 blue, 1 yellow, 2 anycolor, 1 blue
+
+	How many cards do you want to play on 3 blue: 2
+
+	Select two cards 1-4: 3,4
+
+--no more centerline--
+
+	Player’s two hand: 8 blue, 1 yellow
+
+	There are no more center row cards to match.
+
+You color matched and get to play 2 card(s) on the center row.
+
+Player’s two hand: 8 blue, 1 yellow
+
+Select 2 additional card(s) from 1-2 to place to the center row: 1,2
+
+Dealing 2 additional card(s) to other players.
+
+Player’s two hand:
+
+Player two wins with 62 points! 
